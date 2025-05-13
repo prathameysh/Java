@@ -7,6 +7,7 @@ class code {
     }
 }
 
+
 class codetwo {
     public static void main(String[] args) {
 
