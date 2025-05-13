@@ -6,7 +6,7 @@ class code {
         System.out.println("Hello, Java in VS Code! one");
     }
 }
-changes
+
 class codetwo {
     public static void main(String[] args) {
 
